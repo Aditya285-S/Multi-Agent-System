@@ -10,7 +10,7 @@ This project implements an AI-powered multi-agent system that transforms natural
 - Visualization Agent: Generates Python code to create static or interactive visualizations (e.g., bar charts, histograms).
 - Analysis Agent: Performs data analysis and provides insights.
 
-Installation and Setup
+## Installation and Setup
 Install dependencies:
 ```bash
  pip install -r requirements.txt
