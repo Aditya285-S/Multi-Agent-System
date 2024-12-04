@@ -11,9 +11,16 @@ This project implements an AI-powered multi-agent system that transforms natural
 - Analysis Agent: Performs data analysis and provides insights.
 
 ## Installation and Setup
+
+Create .env file in the folder
+
+```bash
+GROQ_API_KEY=<your-api-key>
+```
+
 Install dependencies:
 ```bash
- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ```bash
